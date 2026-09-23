@@ -6,4 +6,5 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- Removed dead README links: deleted `Webraketen` GitHub org and the non-existent `godot-space-shooter` / `space-shooter` repos (2026-09-23).
 - Bootstrapped `AGENTS.md`, `CLAUDE.md`, `CHANGELOG.md`, `TODO.md` (2026-05-25).

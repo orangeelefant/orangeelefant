@@ -28,11 +28,6 @@ I build, host, and maintain a small fleet of websites through Webraketen:
 - 🧽 [Hemstäd Göteborg](https://hemstadgoteborg.com) — Hemstädning hela staden
 - 📦 [Flyttstäd Göteborg](https://flyttstadgoteborg.se) — Besiktningsgaranti
 
-### Public games
-
-- [godot-space-shooter](https://github.com/orangeelefant/godot-space-shooter) — Godot 2D space shooter with ErrorCatcher autoload + debug overlay
-- [space-shooter / Stjärnkrigaren](https://github.com/orangeelefant/space-shooter) — Phaser 3 + TypeScript port
-
 ---
 
 ## Stack
@@ -44,7 +39,6 @@ I build, host, and maintain a small fleet of websites through Webraketen:
 - 🌐 [webraketen.se](https://webraketen.se) — Webraketen (work)
 - 🐶 [rastahunden.com](https://rastahunden.com) — Rastahunden
 - 💎 [Gravatar](https://gravatar.com/affablecd9d4b2249) — Profile portfolio
-- 🏢 [github.com/Webraketen](https://github.com/Webraketen) — Webraketen org
 - **[Il Gambero](https://ilgambero.se)** — Il Gambero — napoletansk pizzeria på Storgatan 11 i Göteborg.
 - **[Vallawok](https://vallawok.se)** — Vallawok — äkta thaimat i Linköping sedan 2012.
 - **[Miss Print](https://missprint.se)** — Miss Print — personligt tryckeri i Göteborg sedan 1999.
