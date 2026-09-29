@@ -7,7 +7,7 @@
 
 Jag bygger och driver webbplatser från Göteborg. Företaget heter [Webraketen](https://webraketen.se).
 
-christoffer@webraketen.se · Göteborg
+hej@webraketen.se · Göteborg
 
 ## Webraketen
 
