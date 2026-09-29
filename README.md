@@ -7,7 +7,7 @@
 
 Jag bygger och driver webbplatser från Göteborg. Företaget heter [Webraketen](https://webraketen.se).
 
-christofferholmgrendokakis@gmail.com · Göteborg
+hej@webraketen.se · Göteborg
 
 ## Webraketen
 
