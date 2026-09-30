@@ -11,7 +11,7 @@ hej@webraketen.se · Göteborg
 
 ## Webraketen
 
-Vi bygger din sajt till fast pris. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod, och sajten är din från dag ett.
+Vi bygger din sajt till fast pris. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod, och du äger sajten.
 
 - Launch, 3 999 kr: 1 till 3 sidor, klar på 14 dagar
 - Expand, 5 999 kr: 5 till 10 sidor, klar på 14 dagar
@@ -35,6 +35,14 @@ hej@webraketen.se · 031-373 51 11 · mån till fre 09 till 17
 - [rastahunden.com](https://rastahunden.com)
 - [Gravatar](https://gravatar.com/affablecd9d4b2249)
 
+## På väg
+
+Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten är klar.
+
+- Il Gambero: napoletansk pizzeria på Storgatan 11 i Göteborg
+- Vallawok: thaimat i Linköping
+- Miss Print: tryckeri i Göteborg
+
 ## Sajter vi bygger och driver
 
 - [Städly](https://stadly.nu): städfirma i Göteborg
@@ -48,9 +56,6 @@ hej@webraketen.se · 031-373 51 11 · mån till fre 09 till 17
 - [Hittaflyttstädning](https://hittaflyttstadning.se): jämförelseguide för flyttstädning
 - [Hemstäd Göteborg](https://hemstadgoteborg.com): hemstädning i hela Göteborg
 - [Flyttstäd Göteborg](https://flyttstadgoteborg.se): flyttstädning i Göteborg
-- [Il Gambero](https://ilgambero.se): napoletansk pizzeria på Storgatan 11 i Göteborg
-- [Vallawok](https://vallawok.se): thaimat i Linköping
-- [Miss Print](https://missprint.se): tryckeri i Göteborg
 - [Bytly](https://bytly.se): lägenhetsbyte i hela Sverige
 - [Kontorsstäd Göteborg](https://kontorsstadgoteborg.se): städning för företag och lokaler
 - [Städhjälp Göteborg](https://stadhjalpgoteborg.se): hemstäd, storstäd och flyttnära städning
