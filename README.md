@@ -40,7 +40,6 @@ hej@webraketen.se · 031-373 51 11 · mån till fre 09 till 17
 Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten är klar.
 
 - Il Gambero: napoletansk pizzeria på Storgatan 11 i Göteborg
-- Vallawok: thaimat i Linköping
 - Miss Print: tryckeri i Göteborg
 
 ## Sajter vi bygger och driver
