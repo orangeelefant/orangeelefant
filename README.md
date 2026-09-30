@@ -11,7 +11,7 @@ hej@webraketen.se · Göteborg
 
 ## Webraketen
 
-Vi bygger din sajt till fast pris. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod, och du äger sajten.
+Vi bygger din sajt till fast pris. Efter ett samtal på 30 minuter får du en offert via e-post inom 24 timmar. Du godkänner skissen innan vi skriver kod. Sajten är din. Vi sköter driften om du vill.
 
 - Launch, 3 999 kr: 1 till 3 sidor, klar på 14 dagar
 - Expand, 5 999 kr: 5 till 10 sidor, klar på 14 dagar
