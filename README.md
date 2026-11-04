@@ -3,7 +3,7 @@
   <img src="assets/webraketen-logo.svg" alt="Webraketen" height="60">
 </picture>
 
-### Christoffer
+# Christoffer
 
 Jag bygger och driver webbplatser från Göteborg. Företaget heter [Webraketen](https://webraketen.se).
 
@@ -20,6 +20,10 @@ Vi bygger din sajt till fast pris. Efter ett samtal på 30 minuter får du en of
 AI skriver utkasten. Vi leder arbetet och granskar allt.
 
 hej@webraketen.se · 031-373 51 11 · mån till fre 09 till 17
+
+## Öppen källkod
+
+[Blue Pencil](https://github.com/orangeelefant/bluepencil) är en Claude Code-skill som granskar marknadsföringstext mot tio copywritinglagar, på svenska och engelska.
 
 ## Rastahunden
 
@@ -58,4 +62,7 @@ Byggda av oss, men domänerna visar fortfarande den gamla sajten tills flytten �
 - [Kontorsstäd Göteborg](https://kontorsstadgoteborg.se): städning för företag och lokaler
 - [Städhjälp Göteborg](https://stadhjalpgoteborg.se): hemstäd, storstäd och flyttnära städning
 - [Storstäd Göteborg](https://storstadgoteborg.se): storstädning av hem och lokaler
-- **[Flytthandboken](https://flytthandboken.se)** — Flytthandboken. Flytta steg för steg, med mallar och lagrum.
+- [Flytthandboken](https://flytthandboken.se): flytta steg för steg, med mallar och lagrum
+
+---
+**Webraketen på GitHub:** [Portfolio](https://github.com/orangeelefant/portfolio) · [Kundcase](https://github.com/orangeelefant/case-studies) · [Blue Pencil](https://github.com/orangeelefant/bluepencil) · [webraketen.se](https://webraketen.se)
