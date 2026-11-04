@@ -6,8 +6,9 @@ Every commit that changes behavior, copy, configuration, or dependencies MUST ad
 
 ## [Unreleased]
 
+- CHANGELOG nämner inte längre den borttagna städsajtens domän (2026-11-04).
 - Profilen har en titel, en rad om Blue Pencil under "Öppen källkod", en enhetlig rad för Flytthandboken och Webraketens GitHub-sidfot. AGENTS.md, CLAUDE.md och TODO.md är kortade och utan interna sökvägar. GitHub-beskrivning och ämnen uppdaterade (2026-11-04).
-- Länkarna till hemstadgoteborg.com är borttagna enligt Christoffers beslut (2026-10-29).
+- Länkarna till en av städsajterna är borttagna enligt Christoffers beslut (2026-10-29).
 - Vallawok är borttagen ur "På väg" enligt Christoffers beslut, eftersom den inte längre är ett aktuellt projekt (2026-09-30).
 - Äganderätten enligt Christoffers beslut: "Sajten är din. Vi sköter driften om du vill." (DOK-03, 2026-09-30).
 - Il Gambero, Vallawok och Miss Print ligger under "På väg" utan länk, eftersom domänerna fortfarande visar de gamla sajterna. "Sajten är din från dag ett" är ersatt med "du äger sajten" tills villkoren och copyn är samordnade (DOK-02, DOK-03, 2026-09-30).
